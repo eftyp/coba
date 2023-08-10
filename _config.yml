@@ -5,7 +5,7 @@ title: Blog
 email: your-email@domain.com
 description: >
   
-logo: "https://img.uqnq.my.id/uqnqblack.png"
+logo: "/assets/images/uqnqblack.png"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 paginate:	50 # The number of posts to show per page on your homepage
@@ -13,7 +13,7 @@ paginate:	50 # The number of posts to show per page on your homepage
 name: 'Admin'
 bio: >
   Admin Blog
-author_image: "https://img.uqnq.my.id/uqnqblack.png"
+author_image: "/assets/images/uqnqblack.png"
 twitter_username: 
 github_username:  
 
