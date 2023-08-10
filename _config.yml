@@ -5,7 +5,7 @@ title: Blog
 email: your-email@domain.com
 description: >
   
-logo: "/assets/images/uqnqblack.png"
+logo: "/assets/images/logo.jpg"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 paginate:	50 # The number of posts to show per page on your homepage
